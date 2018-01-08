@@ -1,0 +1,16 @@
+C:\Users\puszy\source\repos\WpfAppCalculator01\WpfAppCalculator01\bin\Debug\WpfAppCalculator01.exe.config
+C:\Users\puszy\source\repos\WpfAppCalculator01\WpfAppCalculator01\bin\Debug\WpfAppCalculator01.exe
+C:\Users\puszy\source\repos\WpfAppCalculator01\WpfAppCalculator01\bin\Debug\WpfAppCalculator01.pdb
+C:\Users\puszy\source\repos\WpfAppCalculator01\WpfAppCalculator01\obj\Debug\WpfAppCalculator01.csprojResolveAssemblyReference.cache
+C:\Users\puszy\source\repos\WpfAppCalculator01\WpfAppCalculator01\obj\Debug\MainWindow.g.cs
+C:\Users\puszy\source\repos\WpfAppCalculator01\WpfAppCalculator01\obj\Debug\App.g.cs
+C:\Users\puszy\source\repos\WpfAppCalculator01\WpfAppCalculator01\obj\Debug\WpfAppCalculator01_MarkupCompile.cache
+C:\Users\puszy\source\repos\WpfAppCalculator01\WpfAppCalculator01\obj\Debug\WpfAppCalculator01_MarkupCompile.lref
+C:\Users\puszy\source\repos\WpfAppCalculator01\WpfAppCalculator01\obj\Debug\App.baml
+C:\Users\puszy\source\repos\WpfAppCalculator01\WpfAppCalculator01\obj\Debug\MainWindow.baml
+C:\Users\puszy\source\repos\WpfAppCalculator01\WpfAppCalculator01\obj\Debug\WpfAppCalculator01.g.resources
+C:\Users\puszy\source\repos\WpfAppCalculator01\WpfAppCalculator01\obj\Debug\WpfAppCalculator01.Properties.Resources.resources
+C:\Users\puszy\source\repos\WpfAppCalculator01\WpfAppCalculator01\obj\Debug\WpfAppCalculator01.csproj.GenerateResource.Cache
+C:\Users\puszy\source\repos\WpfAppCalculator01\WpfAppCalculator01\obj\Debug\WpfAppCalculator01.csproj.CoreCompileInputs.cache
+C:\Users\puszy\source\repos\WpfAppCalculator01\WpfAppCalculator01\obj\Debug\WpfAppCalculator01.exe
+C:\Users\puszy\source\repos\WpfAppCalculator01\WpfAppCalculator01\obj\Debug\WpfAppCalculator01.pdb

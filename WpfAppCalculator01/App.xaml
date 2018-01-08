@@ -1,0 +1,13 @@
+﻿<Application x:Class="WpfAppCalculator01.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfAppCalculator01"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style x:Key="Buttons" TargetType="Button">
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="Margin" Value="1"/>
+            <Setter Property="BorderThickness" Value="0"/>
+        </Style>
+    </Application.Resources>
+</Application>
