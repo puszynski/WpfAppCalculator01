@@ -2,11 +2,18 @@
 
 Simple, minimalistic WPF calculator with:
 
-addition
-subtraction
-multiplication
-division
-change of characters
-clear entry
-clear all
-undo
+addition,
+
+subtraction,
+
+multiplication,
+
+division,
+
+change of characters,
+
+clear entry,
+
+clear all,
+
+undo.
